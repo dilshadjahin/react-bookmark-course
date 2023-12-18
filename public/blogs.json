@@ -1,0 +1,72 @@
+[
+    {
+        "id": 12345,
+        "cover_img": "https://i.ibb.co/26z3kKj/1.jpg",
+        "author": "Dr. Olivia Turner",
+        "title": "Journey Through the Stars",
+        "author_img": "https://i.ibb.co/hdj8tJV/girl2.jpg",
+        "posted_date": "July 20, 2023",
+        "reading_time": "12 minutes",
+        "hashtags": [
+            "#SpaceExploration",
+            "#Astronomy",
+            "#Science"
+        ]
+    },
+    {
+        "id": 67890,
+        "cover_img": "https://i.ibb.co/M1pZ733/2.png",
+        "author": "Chef Marco Rodriguez",
+        "title": "Culinary Delights",
+        "author_img": "https://i.ibb.co/1Zy1KRb/girl1.jpg",
+        "posted_date": "August 5, 2023",
+        "reading_time": "15 minutes",
+        "hashtags": [
+            "#Cooking",
+            "#FoodieLife",
+            "#Recipes"
+        ]
+    },
+    {
+        "id": 54321,
+        "cover_img": "https://i.ibb.co/5rH1zR9/4.jpg",
+        "author": "Dr. Emily Chen",
+        "title": "Living in the Present",
+        "author_img": "https://i.ibb.co/c69P55m/boy2.jpg",
+        "posted_date": "September 10, 2023",
+        "reading_time": "10 minutes",
+        "hashtags": [
+            "#Mindfulness",
+            "#Wellness",
+            "#SelfCare"
+        ]
+    },
+    {
+        "id": 98765,
+        "cover_img": "https://i.ibb.co/Z13Sv8X/3.png",
+        "author": "Software Engineer Alex Patel",
+        "title": "Coding Joyfully",
+        "author_img": "https://i.ibb.co/0c2R7zq/boy1.png",
+        "posted_date": "October 3, 2023",
+        "reading_time": "18 minutes",
+        "hashtags": [
+            "#Coding",
+            "#Programming",
+            "#TechLife"
+        ]
+    },
+    {
+        "id": 13579,
+        "cover_img": "travel_diaries_cover.jpg",
+        "author": "Adventurer Maya Thompson",
+        "title": "Wanderlust Chronicles",
+        "author_img": "maya_thompson_profile.jpg",
+        "posted_date": "November 15, 2023",
+        "reading_time": "25 minutes",
+        "hashtags": [
+            "#Travel",
+            "#Adventure",
+            "#Wanderlust"
+        ]
+    }
+]
